@@ -1,10 +1,3 @@
----
-theme: jekyll-theme-slate
-title: Test title please ignore
-description: Test description
-layout: post 
----
-
 # Privacy Policy
 
 ### TLDR
