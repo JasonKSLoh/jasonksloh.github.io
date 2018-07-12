@@ -1,9 +1,6 @@
 ---
-title: Post Title Here
-author: Author Name Here
-author_bio: >
-            Bio here. Markdown is allowed. Break onto new lines if necessary.
-layout: post
+theme: jekyll-theme-slate
+title: Privacy
 ---
 
 # Privacy Policy
