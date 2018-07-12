@@ -2,7 +2,7 @@
 theme: jekyll-theme-slate
 title: Test title please ignore
 description: Test description
-layout: minimal
+layout: page
 ---
 
 # Privacy Policy
