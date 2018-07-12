@@ -1,7 +1,6 @@
 ---
-theme: jekyll-theme-slate
-title: This is my title
 layout: post
+title: Blogging Like a Hacker
 ---
 
 # Privacy Policy
