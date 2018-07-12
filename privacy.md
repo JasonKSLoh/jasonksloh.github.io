@@ -1,6 +1,8 @@
 ---
+theme: jekyll-theme-slate
 title: Test title please ignore
-description: This is a test description
+description: Test description
+layout: post
 ---
 
 # Privacy Policy
