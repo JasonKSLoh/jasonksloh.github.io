@@ -1,4 +1,6 @@
-title: Privacy
+---
+title: This is my title
+layout: post
 ---
 # Privacy Policy
 
