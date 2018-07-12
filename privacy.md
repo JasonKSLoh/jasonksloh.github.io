@@ -1,3 +1,7 @@
+---
+title: Privacy Policy
+description: General privacy policy for this site
+---
 # Privacy Policy
 
 ### TLDR
