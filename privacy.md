@@ -1,3 +1,8 @@
+---
+layout: post
+title: Test title please ignore
+---
+
 # Privacy Policy
 
 ### TLDR
