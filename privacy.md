@@ -1,4 +1,4 @@
-#Privacy Policy
+# Privacy Policy
 
 ### TLDR
 We do not collect, store, share, sell or do anything with your information or data.  
