@@ -1,8 +1,3 @@
----
-theme: jekyll-theme-slate
-title: Privacy
----
-
 # Privacy Policy
 
 ### TLDR
