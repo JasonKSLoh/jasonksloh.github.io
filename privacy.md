@@ -1,4 +1,5 @@
 title: Privacy
+---
 # Privacy Policy
 
 ### TLDR
