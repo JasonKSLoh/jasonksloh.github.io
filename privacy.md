@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Test title please ignore
+description: This is a test description
 ---
 
 # Privacy Policy
