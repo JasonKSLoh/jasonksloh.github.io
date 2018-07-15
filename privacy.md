@@ -19,6 +19,10 @@ We do not display or serve any ads.
 This site is hosted on Github Pages.   
 You can view Github's privacy policy at https://help.github.com/articles/github-privacy-statement/
 
+##### Apps
+The mobile apps related to lohjason.com do not collect, save, store, share or upload any of your data or information.
+These applications also do not serve or display any advertisements.
+
 #### Changes to This Privacy Policy
 
 This Privacy Policy may be updated from time to time, although it probably will never be updated. Thus, you are advised to review this page at least once every hundred years for any changes.
